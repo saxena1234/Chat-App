@@ -7,7 +7,7 @@
     "dev": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Moon Saxena",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
